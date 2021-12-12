@@ -1,0 +1,142 @@
+        .nav_effect:hover {
+        nav-left: initial;
+    }
+    
+    .nav_effect ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #000000;
+    }
+    
+    .nav_effect li {
+        float: left;
+    }
+    
+    .nav_effect li a {
+        width: auto;
+        display: block;
+        color: white;
+        text-align: left;
+        padding: 8px;
+        text-decoration: blue;
+        margin: 4px 15px;
+    }
+    
+    .nav_effect li a:hover {
+        background: #1affc9;
+        color: #000
+    }   
+                 
+    .Search {
+        text-align: center;
+        padding: 5px ;
+        margin: 9px 0px 8px 140px;
+       
+    }    
+    .Search:hover {
+        background: #ffff;
+        color: #000
+    }
+    .submit {
+        background-color: #e61919;
+        border: none;
+        color: white;
+        padding: 4px;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 10px 8px;
+    }
+    
+    .submit:hover {
+        background: #1affc9;
+        color: #000
+    }
+    
+    
+    .Ankur {
+        text-align: center;
+        padding: 20px 310px;
+        
+
+   }
+
+
+    .Ankur1 {
+        text-align: center;
+        padding: 20px 310px;
+    }
+    element.style {   
+      margin-bottom: 1rem;   
+        margin-top: 1rem; 
+    }
+    .w3{
+         text-align: center;
+    }
+    .w3:hover {
+        background: #ffff;
+        color: brown;
+    }
+    .Portfolio{
+
+    text-align: center;
+    margin: 20px
+}
+.para{
+ margin: 50px;
+   
+
+}
+.col-lg-4{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+
+.bg-img {
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+  background-color: #ccc;
+}
+
+.content {
+  padding: 15px;
+}
+.mt-4 {
+text-align: center;
+margin: 2px
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-github {
+  background: black;
+  color: white; 
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.w3-container:hover{
+    
+        opacity: 0.7;
+        transform: translateZ(144px);
+}
